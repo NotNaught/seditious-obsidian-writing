@@ -1,0 +1,37 @@
+## Current tools 
+- Freeze
+- Fawn
+- Flee
+- ~~Manipulate~~
+- direct negative feelings to self worth 
+	- apologize, wallow, punish self with thoughts of depression, catastrophizing, or self harm
+- Cry
+	- (feel and don't do anything about cause; feel lonely, isolated, etc)
+- Sleep (nap)
+- watch video, play game, read book ^watchvideo
+	- (distract and/or dissociate to calm and hopefully process in the background)
+	- often seeking isolation to do this
+	- music is different
+- masturbate (similar to above, but a bit more present in body?)
+- Write about feelings
+	- good for organizing thoughts and breaking loops
+	- needs time and energy and focus
+- Write fiction 
+	- creative, connects to some emotions and keeps thoughts moving
+	- needs time and energy and focus 
+- Do physical activity
+	- walk, swim, etc
+	- time to think
+	- movement
+- Do chores
+	- often distracted while doing - see [[Tools for Big Emotions#^watchvideo]]
+	- in certain circumstances, can process but not resolve
+- Twist feelings into kink
+
+## Curious about
+- finding safety/comfort/reassurance/listening in another person
+	- I don't have any adults for this right now
+	- relationship with Tara provides some similar feelings
+- plurality
+	- from what I've read I don't think it would help me
+	- more curious about why that hasn't been my experience, what the differences are (and similarities)

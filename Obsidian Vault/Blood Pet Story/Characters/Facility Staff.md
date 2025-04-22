@@ -1,0 +1,5 @@
+- Psychologist - also a witch?
+	- Gives good vibes—uses Mia's name and gets others to use it, understands her trauma of being torn away from a safe home
+	- Fascinated by intelligent supernatural entities, especially vampires 
+	- Gives domme vibes to Mia
+- A “finder” for vampire society who can inform Mia what happened to the clan and get her out with her first escape attempt

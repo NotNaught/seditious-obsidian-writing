@@ -1,0 +1,35 @@
+- [ ] Introduce setting, city-state, and characters before big outing? Probably
+- [ ] MC Goes into the wilds, with a plan to 1) find out if she's a changeling or 2) demand power
+	- [ ] Secretly she wants the power to change herself but won't admit that 
+	- [ ] What kind of wilds? Deep European forest is classic, but do I make it redwood? Go with a California feel?
+	- [ ] Socal desert scrubland would be neat but too much to introduce— maybe redwoods?
+- [ ] Meets Fae girl ([[Elsin]]) who shows her versions of herself and (some of) the power of [[Fae Magic]]. MC is overwhelmed and leaves, but not before making an (unwitting?) trade - MC’s compass for Elsin’s doll
+- [ ] Suspicious, overwhelmed, unsure whether to believe the training of her life before, the life that doesn't fit, or the words of the Fae that resonate so well
+- [ ] Exhausted, she falls asleep with the doll on her bed and dreams of Elsin
+	- [ ] Not sure exactly what the dream should be - following her through the forest? A conversation? Prob not. ==Rescuing from her father? YES==
+	- [ ] Start in governor's domain - fancy party? ==Fitting for a uniform?==
+	- [ ] Elsin finds her and grabs, her, leading along to run and hide
+	- [ ] Restricting menswear turns to comfortable dress, long hair etc as they run.
+	- [ ] In the library, a girl their age helps to hide them and misdirect the pursuers
+	- [ ] All three leave the library together and get to the top of the mountain that overlooks the city
+	- [ ] “It's so small”
+	- [ ] "It's been assumed all my life that that would be mine, but I don't want it. I want this."
+	- [ ] "I'll save you, my princess"
+	- [ ] "I can do at least half of the saving myself, thank you"
+	- [ ] We need a home” ?? Maybe later
+- [ ] After waking up, MC decides to hide the doll in a safe place for 10 days to let any mental influence fade
+- [ ] She also wonders who the girl in the library was. Was she real too?
+- [ ] Dysphoria gets real bad as she resumes normal routine. Daydreaming, wondering how to change her body, trying desperately not to think of Elsin.
+- [ ] During normal routine, finds herself at the library (unusual, mostly books would come from home library or be picked up by a servant). Sees third girl there. Maneuvered herself there?
+- [ ] After 10 days, MC starts dreaming with Elsin every night, especially easier to remember if she sleeps with the doll. Worries about being corrupted, but she finally has a friend and has fun in the dreams, and gets to be herself (too much like Lozzie? Consider).
+- [ ] Starts going through the motions only to go to sleep and see Elsin, since loneliness and dysphoria have intensified. Wishes to see her again. 
+- [ ] Elsin appears in the city streets, smiling and waving. MC chases after her, they talk about how she can even be there. MC is frustrated Elsin only calls her “princess”; she won't use a false name, but with a kiss she could use so many more pet names. We get MC’s true name in her head, but she's not quite ready to share with a Fae. MC gets flustered because it's not socially acceptable for 2 girls to kiss in broad daylight, which Elsin thinks is super cute
+- [ ] Elsin shows up randomly for the next few days, brightening MC’s days. Eventually she asks when MC is gonna start living her truth, and they start to make a plan. Elsin also mentions there's a changeling about their age in the city, who might be in trouble and they could try to find
+- [ ] The escape plan: 
+	- [ ] Find the changeling
+	- [ ] See what's going on with them, maybe convince them to come with
+	- [ ] Form a Fae contract between MC and Elsin to even their playing field
+	- [ ] Go to railroad town known for nature magic and alchemy
+	- [ ] figure out how to evade "retrieval"
+	- [ ] get hormone therapy
+	- [ ] Find a place to live

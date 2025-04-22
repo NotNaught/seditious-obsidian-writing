@@ -1,0 +1,11 @@
+- Nama
+- Breeding werewolf who had too many alphas or something? Not sure why she would be brought in. They're trying to cure her lycanthropy 
+- Someone who gave over their will to a fae and now can't make decisions. Permanent resident basically
+- Woman who is possessed by an evil spirit and refuses to cooperate with an exorcism (Lilah and Vash’Kah)
+	- Spirit is masochistic and predatory
+- A group of stone people who move around slowly and do things together?
+- Partially transformed into animals and learning how to live with it or turn back
+	- One is discovering she might be a shapeshifter and just got stuck but terrified what that would mean if she were revealed as such
+	- Used to be an evil wizard’s familiar until she (the wizard) was killed
+	- Catgirl, Batgirl, owlboy, newtgirl
+- Guy whose brain was extracted and now experiences life on a 2-second delay — too real?
