@@ -54,4 +54,11 @@ The lawyer is still sitting there, attempting to sit up straight and dignified o
 
 "That seems likely, once they find out, yes." The lawyer runs a hand through his hair. It returns to *exactly* the same arrangement it had before. "Your father has made every effort to keep the information to as few people as possible, but the information will get out eventually. It will probably be sooner, now I've contacted you."
 
-Mr Stillwater glances down at his tab and taps out a message. "We should get you to safety, Miss Warren. You'll find a number of documents on that infotab you're holding, which generally amount to you accepting your position in the family and company, and ensuring your continued health and safety. As soon as you sign all those, we will move you to a secure location."
+Mr Stillwater glances down at his tab and taps out a message. "We should get you to safety, Miss Warren. You'll find a number of documents on that infotab you're holding, which generally amount to you accepting your position in the family and company, and ensuring your continued health and safety. As soon as you sign all those, we will move you to a secure location." %% edit to be more manipulative? %%
+
+%% write it better%% 
+"Can I at least let my girlfriends know where I'll be?" Kelli asks.
+
+"That would not be wise."
+
+"Will I have a way to contact them?"
