@@ -1,0 +1,1 @@
+High concept: A necromancer needs an assistant/apprentice who will not betray her. She uses a new, experimental spell to match soul and body and abilities/potential and become her servant.

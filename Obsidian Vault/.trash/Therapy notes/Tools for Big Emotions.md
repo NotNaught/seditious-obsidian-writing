@@ -12,7 +12,7 @@
 	- (distract and/or dissociate to calm and hopefully process in the background)
 	- often seeking isolation to do this
 	- music is different
-- masturbate (similar to above, but a bit more present in body?)
+- masturbate (similar to above, but a bit more present in body? Has to do with biological feeling too)
 - Write about feelings
 	- good for organizing thoughts and breaking loops
 	- needs time and energy and focus
@@ -24,7 +24,7 @@
 	- time to think
 	- movement
 - Do chores
-	- often distracted while doing - see [[Tools for Big Emotions#^watchvideo]]
+	- often distracted while doing - watching video etc
 	- in certain circumstances, can process but not resolve
 - Twist feelings into kink
 

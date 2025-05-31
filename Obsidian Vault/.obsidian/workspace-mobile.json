@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corporate Inheritance Story/Writing/Scraps/The Kidnapping.md",
+                "file": "Necromancer's Assistant/Brainstorming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Kidnapping"
+              "title": "Brainstorming"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Stone/Shard",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -155,9 +155,17 @@
   },
   "active": "03f499b353b8f3e8",
   "lastOpenFiles": [
-    "Corporate Inheritance Story/Writing/Scraps/01-Introduction.md",
     "Corporate Inheritance Story/Writing/Scraps/The Kidnapping.md",
+    "Necromancer's Assistant/Brainstorming.md",
+    "Necromancer's Assistant",
+    "The Hero and the Immortal Slavegirl/Beginning....md",
+    "HDG Game Show/Brainstorming.md",
     "Therapy notes/Tools for Big Emotions.md",
+    "HDG Game Show",
+    "The Hero and the Immortal Slavegirl/Worldbuilding/Brainstorming.md",
+    "The Hero and the Immortal Slavegirl/Worldbuilding",
+    "The Hero and the Immortal Slavegirl",
+    "Corporate Inheritance Story/Writing/Scraps/01-Introduction.md",
     "Blood Pet Story/Characters/Facility Staff.md",
     "Therapy notes",
     "Blood Pet Story/Characters/Mia.md",
@@ -171,7 +179,6 @@
     "Corporate Inheritance Story/Writing/Scraps",
     "Fae Story/Writing/Chapter Two WIP.md",
     "Corporate Inheritance Story/Writing",
-    "Corporate Inheritance Story",
     "Fae Story/Writing/Chapter One WIP.md",
     "Fae Story/Writing/Outline.md",
     "Fae Story/Worldbuilding/Characters/Elsin.md",
@@ -183,11 +190,6 @@
     "The Valonian League.md",
     "The.md",
     "Fae Story/Worldbuilding/Magic/Stone Shard Magic.md",
-    "Fae Story/Worldbuilding/Culture/Valonia",
-    "Fae Story/Worldbuilding/Magic/Fae Magic.md",
-    "Fae Story/Worldbuilding/Magic/Nature Magic.md",
-    "Fae Story/Worldbuilding/Magic/Untitled",
-    "Blood Pet Story/Chapters/Blood Pet Chapter 1.md",
-    "Fae Story/Worldbuilding/Culture"
+    "Fae Story/Worldbuilding/Magic/Fae Magic.md"
   ]
 }
